@@ -9,5 +9,3 @@ function returnsANamedFunction() {
 function returnsAnAnonymousFunction() {
     return function(){};
 }
-
-//receivesAFunction(`Dakota`, function(who) { return who + ` attacks!`; });
